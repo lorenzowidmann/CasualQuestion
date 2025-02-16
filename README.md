@@ -1,6 +1,13 @@
 # CasualQuestion
-This python program ask you a random question form the list that you writed in the Questions.txt file. This program can be halpful to study for exam.
+
+This Python program randomly selects a question from a list that you have written in the `Questions.txt` file. It is designed to help you study for exams by providing a quick and interactive way to test your knowledge.
 
 # Configuration
-After the download you need to change the path of the Questions.txt file in the program, add some question in the file and thats it. Now you can start to answer the questions. 
+
+After downloading the program, you need to:
+
+1. Update the file path for `Questions.txt` in the program to match your system.
+2. Add your questions to the `Questions.txt` file.
+
+Once configured, you can start answering the questions to enhance your study sessions.
  
